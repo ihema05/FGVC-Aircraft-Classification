@@ -15,7 +15,6 @@ FGVC Aircraft Dataset
 
 - 100 aircraft classes
 - ~10,000 images
-- Fine-grained image classification task
 
 ## Models
 
